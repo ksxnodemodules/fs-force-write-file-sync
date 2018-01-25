@@ -18,6 +18,7 @@
 	"dependencies": {
 		"just-try": "^1.0.0",
 		"fs-force-mkdir-sync": "^1.1.0",
+		"fs-force-delete-sync": "^1.0.0",
 		"fs-force-utils": "ksxnodemodules/fs-force-utils#v0.0.0"
 	},
 	"main": "index.js",
